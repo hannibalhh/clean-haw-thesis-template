@@ -4,4 +4,6 @@ A tex template for HAW -  university of applied science Hamburg - bachelor and m
 
 ## Features
 
-* it works 
+* it works out of the box
+* UT8-Support (yes, the file is currently saved with UT8 codecs)
+* only compatible packages imported
