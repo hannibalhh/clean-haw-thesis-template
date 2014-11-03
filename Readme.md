@@ -1,7 +1,7 @@
-* HAW template - hyper edition
+# HAW template - hyper edition
 
 A tex template for HAW -  university of applied science Hamburg - bachelor and master thesis.
 
-** Features
+## Features
 
-- it works 
+* it works 
